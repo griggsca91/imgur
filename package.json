@@ -1,0 +1,19 @@
+{
+  "name": "@bad_hombres/imgur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griggsca91/imgur.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griggsca91/imgur/issues"
+  },
+  "homepage": "https://github.com/griggsca91/imgur#readme"
+}
